@@ -1,29 +1,45 @@
-# Welcome to your Lovable project
+# FAQ Chatbot
 
-This project was built with [Lovable](https://lovable.dev).
+An AI-powered FAQ Chatbot developed using Lovable AI. This application helps users quickly find answers to frequently asked questions through an intuitive and user-friendly chat interface.
 
-## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## Features
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- AI-powered chatbot
+- Instant responses to FAQs
+- User-friendly interface
+- Responsive design
+- Fast and interactive experience
 
-## Development
+## Technologies Used
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
-
-## Built with
-
-- TanStack Start
-- TypeScript
 - React
+- TypeScript
+- Vite
 - Tailwind CSS
+- Lovable AI
+
+## Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/sadiarajpoot614-sketch/faq-chatbot.git
+   ```
+
+2. Install dependencies
+   ```bash
+   npm install
+   ```
+
+3. Start the development server
+   ```bash
+   npm run dev
+   ```
+
+## Project Status
+
+Completed and deployed.
+
+## License
+
+This project is created for educational and portfolio purposes.
