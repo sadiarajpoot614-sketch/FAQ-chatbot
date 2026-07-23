@@ -4,7 +4,6 @@ An AI-powered FAQ Chatbot developed using Lovable AI. This application helps use
 
 
 ## Features
-
 - AI-powered chatbot
 - Instant responses to FAQs
 - User-friendly interface
